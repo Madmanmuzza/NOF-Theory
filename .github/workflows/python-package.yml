@@ -1,0 +1,12 @@
+import numpy as np
+
+# Initialize simulation parameters
+agents = 10**4  # Number of agents
+psi = np.random.normal(0, 1, agents)  # Initial consciousness field (Psi) for agents
+
+# Simulate for 1000 time steps
+for t in range(1000):
+    psi += 0.1 * np.random.normal(0, 1e-30, agents)  # Update Psi with stochastic noise
+
+# Output the final state (optional, for debugging)
+print("Final Psi values:", psi)
