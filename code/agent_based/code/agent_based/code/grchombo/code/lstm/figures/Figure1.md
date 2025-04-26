@@ -1,6 +1,6 @@
-# Figure 1: NOF Framework Diagram
+# Figures for NOF Theory
 
-This file is a placeholder for the NOF framework diagram, a 2D schematic with a dark blue ocean background. The \(\phi\) field is a flowing tide (curved arrows), \(\chi\) forms reef-like structures (gray clusters), and \(\Psi\) appears as wave patterns (white ripples). Triangles (red outlines) float on the ocean, labeled “Knowledge,” “Biases,” and “Consciousness.” Interaction arrows connect the fields, converging at a unity point.
+This folder contains diagrams for the Negentropic Ocean Field (NOF) Theory. Currently, it includes a placeholder for Figure 1, a 2D schematic of the NOF framework depicting the “dark ocean” metaphor with \(\phi\), \(\chi\), \(\Psi\), and triangles. Additional diagrams (e.g., entropy valleys) may be added in the future.
 
-## Status
-- Awaiting generation as SVG/PNG. See document (`docs/NOF_Theory_Submission_Final.md`) for full description.
+## Files
+- `Figure1.md`: Description of the NOF framework diagram.
